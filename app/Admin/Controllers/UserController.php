@@ -12,6 +12,7 @@ class UserController extends AdminController
 {
     //one
     //two
+    //three
     /**
      * Title for current resource.
      *
