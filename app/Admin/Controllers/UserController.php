@@ -10,9 +10,6 @@ use Encore\Admin\Show;
 
 class UserController extends AdminController
 {
-    //555
-    //666
-    //777
     /**
      * Title for current resource.
      *
